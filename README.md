@@ -24,7 +24,7 @@
 <details>
   <summary>📂 Projetos em destaque</summary>
 
-- 🚀 **NovaEntregaApp** — app de delivery (Flutter + Supabase)  
+- 🚀 **OnStreet** — app de corrida (Flutter + Supabase)  
 - 🤖 **Aurora** — IA pessoal (Python, DL)
 
 </details>
