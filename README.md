@@ -4,7 +4,7 @@
 
 ### 👋 Abner Vinicius
 - ⚡ Técnico em Eletrotécnica • rumo a **Arquiteto de Software**
-- 📦 Construindo **NovaEntregaApp** (Delivery da minha cidade)
+- 📦 Construindo **Onstreet** (App de corrida da minha cidade)
 - 🤖 Projeto **Aurora** (IA/Deep Learning)
 - 🌩️ Interesses: Arquitetura, Cloud, Segurança, Dados
 
